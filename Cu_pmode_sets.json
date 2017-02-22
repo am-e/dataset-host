@@ -8,7 +8,7 @@
         { "type": "mineral", "index": 0, "name": "Mineral" }
     ],
     "sets": [
-        { "format": "binary", "start": 1, "end": 10 }
+        { "format": "binary", "start": 1, "end": 46 }
     ],
     "author": "ame",
     "description": "Cu P-Modes",
