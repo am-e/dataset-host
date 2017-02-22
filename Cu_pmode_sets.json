@@ -1,0 +1,16 @@
+{
+    "file": "https://drive.google.com/file/d/0Bw9-xcutfKfDN3oxM3ptNXVyaDQ/view?usp=sharing",
+    "name": "Cu P-Modes",
+    "header": 0,
+    "separator": ";",
+    "skip": 0,
+    "meta": [
+        { "type": "mineral", "index": 0, "name": "Mineral" }
+    ],
+    "sets": [
+        { "format": "binary", "start": 1, "end": 10 }
+    ],
+    "author": "ame",
+    "description": "Cu P-Modes",
+    "source": "Cu dataset"
+}
